@@ -1,2 +1,2 @@
-
-console.log("this is my new git practice project 1232321312312312312 ");
+const a=5;
+console.log("this is somtning wrong",a);
